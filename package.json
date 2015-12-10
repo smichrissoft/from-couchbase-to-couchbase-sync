@@ -1,0 +1,19 @@
+{
+  "name": "couchbase_synchro",
+  "version": "1.0.0",
+  "description": "couchbase to couchbase syncrhonization",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "couchbase",
+    "mysql"
+  ],
+  "author": "smi-chris-soft",
+  "license": "proprietary",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "couchbase": "^2.1.2"
+  }
+}
